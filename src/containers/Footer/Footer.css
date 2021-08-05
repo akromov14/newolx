@@ -1,0 +1,13 @@
+footer a {
+    color: black;
+    font-weight: bold;
+    display: block;
+    text-decoration: none;
+    padding: 4px 0px;
+}
+
+.footer {
+    background-color: whitesmoke;
+    border-top: 1px solid rgb(182, 172, 172);
+    color: rgb(55, 35, 170);
+}
